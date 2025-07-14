@@ -223,3 +223,4 @@ The application uses TailwindCSS for styling. Modify classes in any component to
 - Mobile app version
 # Qrscan
 # CodeScanner
+# CodeScanner
